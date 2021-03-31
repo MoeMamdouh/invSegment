@@ -927,6 +927,10 @@
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@react-native-community/eslint-plugin/-/eslint-plugin-1.0.0.tgz#ae9a430f2c5795debca491f15a989fce86ea75a0"
 
+"@segment/analytics-react-native-mixpanel@^1.1.0":
+  version "1.4.3"
+  resolved "https://registry.yarnpkg.com/@segment/analytics-react-native-mixpanel/-/analytics-react-native-mixpanel-1.4.3.tgz#9d0db2873c5953af239e222285d205d6db70c207"
+
 "@segment/analytics-react-native@^1.1.0":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@segment/analytics-react-native/-/analytics-react-native-1.1.0.tgz#209c28a7b6f60c80bdce8e7c66bfb26aaeef9ed6"
@@ -5991,8 +5995,8 @@ xtend@~4.0.1:
   resolved "https://registry.yarnpkg.com/xtend/-/xtend-4.0.2.tgz#bb72779f5fa465186b1f438f674fa347fdb5db54"
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
 
 "y18n@^3.2.1 || ^4.0.0", y18n@^4.0.0:
   version "4.0.0"
